@@ -1,0 +1,4 @@
+*.log
+!index.log
+text.txt
+node_packs/
